@@ -6,7 +6,7 @@
 #include "Array.h"
 #include "Result.h"
 #include "SensorNetwork.h"
-#include "Sensor.h"
+#include "sensor.h"
 
 using namespace std;
 

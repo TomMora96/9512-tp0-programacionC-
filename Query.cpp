@@ -4,7 +4,7 @@
 #include <sstream>
 #include "Query.h"
 #include "Result.h"
-#include "Sensor.h"
+#include "sensor.h"
 #include "SensorNetwork.h"
 #include "Array.h"
 
